@@ -3,8 +3,7 @@
 <!--
 **Lz1y/Lz1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on Keen lab.
-- 🌱 I’m currently learning windows and pentest.
+- 🌱 I’m currently learning dev and pentest.
 - 📫 How to reach me: system@lz1y.cn
 - 💖 My idols: james forshaw(@tyranid), Raphael Mudge(@rsmudge), Dirk jan(@dirkjanm),Adam(@Hexacorn), itm4n, rastamouse, Adam Chester(@xpn), 3gstudent, evilcg, and all the people who love to share!
 
